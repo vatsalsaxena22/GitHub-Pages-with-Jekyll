@@ -1,3 +1,3 @@
-# Welcome to My Website 🚀  
-- [About](about.md)  
-- [Projects](projects.md)  
+# GitHub Pages with Jekyll
+
+GitHub Pages supports Jekyll, a static site generator that lets you create a professional multi-page website with Markdown.

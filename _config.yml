@@ -1,4 +1,4 @@
-theme: minima
-title: My Awesome Site
-description: A blog about tech and coding
+theme: jekyll-theme-cayman
+title: GitHub Pages with Jekyll
+description: A Full Guide for GitHub Pages with the famous SSG (Static Site Generator), Jekyll
 author: Vatsal Saxena
